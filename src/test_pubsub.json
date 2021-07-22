@@ -1,0 +1,47 @@
+{
+    "sequence 1": {
+        "type": "Integer",
+        "keyval": 420
+    },
+    "sequence 0": {
+        "type": "String",
+        "keyval": "test"
+    },
+    "sequence 6": {
+        "type": "String",
+        "keyval": "hello"
+    },
+    "sequence 2": {
+        "type": "IntArray",
+        "keyval": [
+            4,
+            2,
+            0
+        ]
+    },
+    "sequence 3": {
+        "type": "StrArray",
+        "keyval": [
+            "test",
+            "str",
+            "array",
+            "data",
+            "struct"
+        ]
+    },
+    "sequence 4": {
+        "type": "IntSequence",
+        "keyval": [
+            -1,
+            183
+        ]
+    },
+    "sequence 5": {
+        "type": "StrSequence",
+        "keyval": [
+            "test",
+            "string",
+            "sequence"
+        ]
+    }
+}
